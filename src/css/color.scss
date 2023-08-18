@@ -1,0 +1,15 @@
+$palette: (
+  white: #fff,
+  red: #eb5757,
+  orange: #f2994a,
+  light-green: #6fcf97,
+  purple: #9b51e0,
+  blue: #2f80ed,
+  light-blue: #56ccf2,
+  green: #219653,
+  yellow: #f2c94c,
+);
+
+$light-theme: (
+  def: map-get($palette, white),
+);
