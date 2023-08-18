@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pie-chart/static/css/main.8023be10.css",
+    "main.js": "/pie-chart/static/js/main.003378ef.js",
+    "static/js/787.9a45561d.chunk.js": "/pie-chart/static/js/787.9a45561d.chunk.js",
+    "index.html": "/pie-chart/index.html",
+    "main.8023be10.css.map": "/pie-chart/static/css/main.8023be10.css.map",
+    "main.003378ef.js.map": "/pie-chart/static/js/main.003378ef.js.map",
+    "787.9a45561d.chunk.js.map": "/pie-chart/static/js/787.9a45561d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8023be10.css",
+    "static/js/main.003378ef.js"
+  ]
+}
